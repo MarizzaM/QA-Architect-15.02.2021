@@ -1,0 +1,60 @@
+===1===
+Public
+    The code is accessible for all classes
+Default
+    The code is only accessible in the same package.
+    This is used when you don't specify a modifier.
+Private
+	The code is only accessible within the declared class
+
+===2===
+A package in Java is used to group related classes.
+
+We use packages to avoid name conflicts, and to write a better maintainable code.
+
+To use a class or a package from the library, you need to use the import keyword
+
+===3===
+JUnit is a unit testing framework for Java programming language
+It is mainly used for unit testing Java projects
+
+Selenium is a automated testing framework used to validate web applications
+across different browsers and platforms.
+
+JUnit and Selenium are used for tests of application
+
+===4===
+The not work!
+Because the 'name_owner_m' is only accessible in class 'Store'
+
+===5===
+a) You can check if new data is valid before setting a property
+   You can perform an action on the data which you are getting or
+   setting on a property.
+   You can control which properties can be stored and retrieved.
+
+===6===
+m_ prefix
+    This is typical programming practice for defining variables
+    that are member variables. So when you're using them later,
+    you don't need to see where they're defined to know their scope.
+'this' is a reference to the current object
+
+===8===
+Child class inherits the attributes and methods from the Parent class
+To inherit from a class, use the extends keyword
+class Child extends Parent
+
+===9===
+No
+
+===10===
+Yes
+
+===11===
+Getters can be generated for final fields.
+Setters cannot be generated for final fields.
+
+
+
+
